@@ -19,8 +19,6 @@ pip install streamlit
 pip install transformers
 pip install torch torchvision torchaudio
 pip install torch-scatter -f 
-
-
 ```
 
 ### To run the code
